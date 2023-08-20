@@ -1,4 +1,4 @@
-# Digital Clock with HTML, CSS, and JavaScript
+# Digital Clock using HTML, CSS, and JavaScript
 
 Welcome to my digital clock project! This repository contains a simple and elegant digital clock created using HTML, CSS, and JavaScript. This project provides a functional and visually appealing digital clock that accurately displays the current time.
 
