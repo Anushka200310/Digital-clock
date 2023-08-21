@@ -13,7 +13,7 @@ Welcome to my digital clock project! This repository contains a simple and elega
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/Anushka200310/digital-clock.git`
-2. Open the `index.html` file in your web browser.
+2. Open the `index.html` file in your preferred web browser
 
 ## Contributing
 
